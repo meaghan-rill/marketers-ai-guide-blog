@@ -1,0 +1,22 @@
+title: "Marketers AI Guide Blog"
+description: "Insights and resources for marketing in the AI era"
+author: "Meaghan Rill"
+theme: minima
+markdown: kramdown
+
+# Navigation
+nav:
+  - title: "Blog"
+    url: "/blog/"
+  - title: "Demand Gen"
+    url: "/demand-gen/"
+  - title: "Brand"
+    url: "/brand/"
+  - title: "Data and Analytics"
+    url: "/data-analytics/"
+  - title: "Social Media"
+    url: "/social-media/"
+  - title: "SEO and GEO"
+    url: "/seo-geo/"
+  - title: "Content Marketing"
+    url: "/content-marketing/"
